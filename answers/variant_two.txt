@@ -1,0 +1,10 @@
+Dart tilida interface qanday hosil qilinadi  ? implements kalit sozi nima vazifa bajaradi !
+
+
+Dart tilida interfacelar imlement kalit so'zi orqali 100% abstraksiyaga erishish uchun yoziladi yani bir tomonlama aloqa hosil qilish uchun 
+
+example : 
+abstract class Repository {}
+class RepositoryImpl implements Repository {}
+
+implements kalit so'zi biror bir classdan to'liqligicha methodlarni yozish kerak bo'lgan paytda ishlatamz va interfacelarni hosil qilishda ishlatamiz!

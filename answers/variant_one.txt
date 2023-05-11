@@ -1,0 +1,10 @@
+Switch caseni ishlash jarayonini tushuntiring !
+
+Switch case kalit sozi yoziladi (condition) yoziladi 
+va shu conditionga qarab tana qismida yozilgan caselar tekshirib chiqiladi 
+qaysidir case mos kelsa shu caseni bajarib to'xtadadi  
+yokida default case yozilgan bo'lsada lkn shartga to'g'ri tushmasa default caseni bajarib 
+o'z ishini yakunlaydi
+
+
+Switch caseni ko'pincha qiymatlarni bir qiymatni ikkinchi qiymatga tenglashda ishlatiladi
